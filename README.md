@@ -1,4 +1,4 @@
-# market-docs
+# User documentation for market.bitzlato.com
 
 # Exchange limits
 
