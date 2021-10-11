@@ -3,11 +3,4 @@
 * API docs - https://market.bitzlato.com/docs
 
 # Exchange limits
-
-## Total open (active) orders
-
-*  5 active (wait or pending) orders per market
-
-## Request to create orders
-
-## Other kind of requests
+* https://docs.google.com/spreadsheets/d/10wxfVl5EaULfTtGasySNxU0k821z9vqZFsNhDaHiAo0/edit?usp=sharing
