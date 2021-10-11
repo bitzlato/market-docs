@@ -4,9 +4,9 @@
 
 # Exchange limits
 
-## Open orders
+## Total open (active) orders
 
-*  5 open (wait or pending) orders per market
+*  5 active (wait or pending) orders per market
 
 ## Request to create orders
 
